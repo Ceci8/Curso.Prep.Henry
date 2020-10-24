@@ -1,0 +1,23 @@
+Homework 02
+
+Variables
+
+Una variable es el nombre con el que almacenamos datos, para porder luego llamar o buscar estos datos en cualquier momento y desde cualquier lugar del programa. Por ejemplo: en la variable que llamaremos EDAD guardaremos la edad del usuario y asi podremos usar este dato (que irá variando a medida que cambie el usuario) en cualquier momento.
+
+
+String: es un tipo de dato, es una cadena de caracteres, se define entre comillas. Por ejemplo:
+var Profesion = 'Abogado'
+
+
+Funciones (argumentos, 'return')
+
+El argumento de una función son las variables que usamos dentro de ella.
+La declaración return devuelve el resultado de la función. Cabe aclarar que, cuando la función llega a una declaración return, devuelve el valor de la función y detiene su ejecución inmediatamente.
+
+Declaraciones 'if'
+La palabra clave 'if' se utiliza para realizar una comparación, una comprobación, que, si resulta cierta (true) devolverá un valor o realizará determinada acción y si resultara falsa (false) se detendrá, por ejemplo.
+
+Valores booleanos ('true', 'false')
+Los valores que pueden tener son dos: o true o false. Funcionan a modo de flag, ACTIVAR/DESACTIVAR, ON/OFF, SI/NO, 1/0. 
+
+
